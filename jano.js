@@ -1,23 +1,23 @@
 const Discord = require("discord.js");
 const myid = ['681553671364018196'] // id xot da bne 
-const jano = new Discord.Client();
-const jano2 = new Discord.Client();
-const jano3 = new Discord.Client();
-const jano4 = new Discord.Client();
-const jano5 = new Discord.Client();
-const jano6 = new Discord.Client();
+const a7a = new Discord.Client();
+const a7a2 = new Discord.Client();
+const a7a3 = new Discord.Client();
+const a7a4 = new Discord.Client();
+const a7a5 = new Discord.Client();
+const a7a6 = new Discord.Client();
 
 
-///////// id vc dane hata bcheta vc 
+///////// lam bashaya id vc dabne 
 
 
-jano.on("ready", () => {
-  var join = jano.channels.get(""); /// id voice
+A7a.on("ready", () => {
+  var a7a = jano.channels.get(""); /// id voice
   if (join) join.join();
 });
 ///////////////////
-jano2.on("ready", () => {
-  var join = jano2.channels.get(""); /// id voice
+A7a2.on("ready", () => {
+  var join = a7a2.channels.get(""); /// id voice
   if (join) join.join();
 });
 ///////////////////
